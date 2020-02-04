@@ -1,0 +1,16 @@
+.nouveau_menu ul  
+    {
+        display:inline-block!important;
+        width:200px!important;
+    }
+.nouveau_menu ul li ul
+{
+    display:none!important;
+ }
+.nouveau_menu ul>li:hover ul
+{
+    display:block!important;
+    position:absolute!important;
+    z-index:9999!important;
+    background-color:white!important;
+}
