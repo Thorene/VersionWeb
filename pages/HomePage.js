@@ -4,6 +4,7 @@ import Head from 'next/head'
 import Bloc2 from '../components/bloc2'
 import MyCalendar from '../components/Calendar' 
 import Tableaux from '../components/Tableaux' 
+import Nav from '../components/Nav' 
 import '../pages/css/maxmega.css';
  
 import '../pages/css/tombas_theme.css';
