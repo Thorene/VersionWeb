@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "es6-promise": "^4.2.8",
     "history": "^4.10.1",
     "isomorphic-fetch": "^2.2.1",
