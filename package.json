@@ -13,7 +13,7 @@
     "es6-promise": "^4.2.8",
     "history": "^4.10.1",
     "isomorphic-fetch": "^2.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "next": "9.1.6",
     "owl.carousel": "^2.3.4",
     "qs": "^6.9.1",
