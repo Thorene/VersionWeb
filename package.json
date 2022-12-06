@@ -16,7 +16,7 @@
     "moment": "^2.24.0",
     "next": "9.1.6",
     "owl.carousel": "^2.3.4",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "react": "^16.12.0",
     "react-agenda": "0.0.8",
     "react-big-calendar": "^0.22.0",
